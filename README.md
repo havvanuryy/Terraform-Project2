@@ -11,9 +11,9 @@ We are tasked with provisioning an Azure Load Balancer for the HTTP and HTTPS re
 
 First, the following resources are created:
 
-+ a resource group 
-+ a virtual network 
-+ two subnets named 
++ a resource group
++ a virtual network
++ two subnets named
 + a storage account
 + two virtual machines in an availability set
 
